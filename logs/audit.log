@@ -1,0 +1,23 @@
+AUDIT: 2025/04/05 11:47:58 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 11:48:53 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d56-5d70f5e4e4d8, Amount=1200.00, Category=groceries, PointsRemaining=4680
+AUDIT: 2025/04/05 12:21:09 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d56-5d70f5e4e4d9, Amount=1200.00, Category=groceries, PointsRemaining=7080
+AUDIT: 2025/04/05 12:21:46 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d56-5d70f5e4e0d1, Amount=1200.00, Category=groceries, PointsRemaining=9480
+AUDIT: 2025/04/05 13:41:18 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d56-5d70f5e5e0d1, Amount=1200.00, Category=groceries, PointsRemaining=11880
+AUDIT: 2025/04/05 13:42:25 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d56-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=11770
+AUDIT: 2025/04/05 14:07:20 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef4-9d46-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=0
+AUDIT: 2025/04/05 14:17:05 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b16-4ef5-9d46-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=2200
+AUDIT: 2025/04/05 14:17:46 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b26-4ef5-9d46-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=2090
+AUDIT: 2025/04/05 17:21:32 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 17:22:48 audit.go:31: [UserID=0] TOKEN_STORE_FAIL - invalid email or password
+AUDIT: 2025/04/05 17:22:58 audit.go:31: [UserID=0] TOKEN_STORE_FAIL - invalid email or password
+AUDIT: 2025/04/05 17:28:06 audit.go:31: [UserID=0] TOKEN_STORE_FAIL - invalid email or password
+AUDIT: 2025/04/05 17:37:58 audit.go:31: [UserID=1] LOGIN - Successful login
+AUDIT: 2025/04/05 17:38:54 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 17:56:51 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 17:57:18 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b27-4ef5-9d46-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=1980
+AUDIT: 2025/04/05 18:13:26 audit.go:31: [UserID=1] LOGIN - Successful login
+AUDIT: 2025/04/05 18:13:38 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 18:27:47 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 18:28:23 audit.go:31: [UserID=1] TRANSACTION_PLACED - TransactionID=be0a5dfc-6b27-4ef5-8d46-5d70f5e6e0d1, Amount=1100.00, Category=groceries, PointsRemaining=4180
+AUDIT: 2025/04/05 18:46:26 audit.go:31: [UserID=1] REFRESH_TOKEN - Issued new access token
+AUDIT: 2025/04/05 18:46:54 audit.go:31: [UserID=1] LOYALTY_HISTORY_VIEW - Page=1, Limit=5
