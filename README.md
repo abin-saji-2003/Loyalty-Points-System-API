@@ -76,6 +76,8 @@ To set up the project locally, follow these steps:
   "password": "abin123"
 }
 
+```
+
 ### 2. Refresh Token
 
 **Endpoint:**  
@@ -87,6 +89,8 @@ To set up the project locally, follow these steps:
 {
   "refresh_token": "your_refresh_token_here"
 }
+
+```
 
 ### 3. Record a Transaction
 
@@ -105,6 +109,8 @@ To set up the project locally, follow these steps:
   "product_code": "ELEC-X102",
   "use_points": true
 }
+
+```
 
 ### 4. View Point History (Paginated)
 
